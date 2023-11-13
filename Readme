@@ -1,0 +1,5 @@
+命令格式为
+./server.o IP port
+./main.o IP port
+
+实现多并行
